@@ -2,7 +2,7 @@
 
 **Privacy Policy**
 
-This privacy policy applies to the versus tournament app as well a the versus 16P app (which is simply the free version limited to tournaments with up to 16 participants. Both versions (hereby referred to as "Application") for mobile devices have been created by Chris H. (Christian Herrmann, hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the versus tournament app as well as the versus 16P app (which is simply the free version limited to tournaments with up to 16 participants. Both versions (hereby referred to as "Application") for mobile devices have been created by Chris H. (Christian Herrmann, hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
